@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "discovery-server",
+			"path": "discovery-server"
+		},
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"name": "config-server",
+			"path": "config-server"
+		},
+		{
+			"name": "catalogo-animes",
+			"path": "catalogo-animes"
+		},
+		{
+			"name": "plataformas-stream",
+			"path": "plataformas-stream"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
